@@ -10,3 +10,4 @@ Aulas
 - Estruturas de dados: listas, tuplas, dicionários e conjuntos (python_fundamentos_2)
 - Estruturas condicionais (python_fundamentos_3)
 - Funções (python_fundamentos_4)
+- Numpy (python_fundamentos_5_numpy_p1)
