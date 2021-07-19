@@ -12,4 +12,4 @@ Aulas
 - Funções (python_fundamentos_4)
 - Numpy (python_fundamentos_5_numpy_p1)
 - Módulo scipy.stats (python_fundamentos_6_numpy_p2)
-- Análise de Dados com Pandas
+- Análise de Dados com Pandas (python_fundamentos_7_pandas_p1)
